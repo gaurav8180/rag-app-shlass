@@ -1,0 +1,10 @@
+gradio
+langchain
+langchain-community
+langchain-pinecone
+langchain-google-genai
+huggingface-hub
+sentence-transformers
+pinecone-client
+tiktoken
+jq
